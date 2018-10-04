@@ -1,4 +1,4 @@
-# demo_notebooks
+# Notebooks for demonstration
 
 ### 1. Flight Delay Prediction
 The project aims at finding an optimal price for an insurance plan covering flight delay for every single flight.
