@@ -10,3 +10,17 @@ In this demo solution, the following features are taken into account:
 - Destination Airport
 - Time in year (Which week)
 - Time in day  (What time)
+
+
+### 2. Embedding TV Programmes according to its subtitles.
+** Raw data is confidential **
+
+Preprocessing:
+- Download
+- Extract
+- Tokenize
+- Group
+
+Transforming (Embedding) each document by:
+- TF-IDF
+- Latent Dirichlet Allocation (LDA)
